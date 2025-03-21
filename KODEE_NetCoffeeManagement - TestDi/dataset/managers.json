@@ -1,0 +1,26 @@
+[
+    {
+        "id": "MN01",
+        "name": "Manager 1",
+        "password": "456",
+        "phone": "0375278487",
+        "address": "Manager Address 1",
+        "position": "Manager"
+    },
+    {
+        "id": "MN02",
+        "name": "Manager 2",
+        "password": "456",
+        "phone": "0787390891",
+        "address": "Manager Address 2",
+        "position": "Manager"
+    },
+    {
+        "id": "MN03",
+        "name": "Manager 3",
+        "password": "456",
+        "phone": "0751907018",
+        "address": "Manager Address 3",
+        "position": "Manager"
+    }
+]

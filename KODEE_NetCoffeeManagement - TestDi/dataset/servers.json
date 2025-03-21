@@ -1,0 +1,302 @@
+[
+    {
+        "id": "SE01",
+        "name": "Server 1",
+        "status": "available",
+        "customer_name": "",
+        "customer_phone": "",
+        "start_time": "",
+        "usage_time": 0,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE02",
+        "name": "Server 2",
+        "status": "available",
+        "customer_name": "",
+        "customer_phone": "",
+        "start_time": "",
+        "usage_time": 0,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE03",
+        "name": "Server 3",
+        "status": "occupied",
+        "customer_name": "Customer 83",
+        "customer_phone": "0299084223",
+        "start_time": "20:56",
+        "usage_time": 5,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE04",
+        "name": "Server 4",
+        "status": "occupied",
+        "customer_name": "Customer 65",
+        "customer_phone": "0208407854",
+        "start_time": "17:51",
+        "usage_time": 4,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE05",
+        "name": "Server 5",
+        "status": "available",
+        "customer_name": "",
+        "customer_phone": "",
+        "start_time": "",
+        "usage_time": 0,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE06",
+        "name": "Server 6",
+        "status": "available",
+        "customer_name": "",
+        "customer_phone": "",
+        "start_time": "",
+        "usage_time": 0,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE07",
+        "name": "Server 7",
+        "status": "available",
+        "customer_name": "",
+        "customer_phone": "",
+        "start_time": "",
+        "usage_time": 0,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE08",
+        "name": "Server 8",
+        "status": "available",
+        "customer_name": "",
+        "customer_phone": "",
+        "start_time": "",
+        "usage_time": 0,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE09",
+        "name": "Server 9",
+        "status": "available",
+        "customer_name": "",
+        "customer_phone": "",
+        "start_time": "",
+        "usage_time": 0,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE10",
+        "name": "Server 10",
+        "status": "available",
+        "customer_name": "",
+        "customer_phone": "",
+        "start_time": "",
+        "usage_time": 0,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE11",
+        "name": "Server 11",
+        "status": "occupied",
+        "customer_name": "Customer 57",
+        "customer_phone": "0677226215",
+        "start_time": "13:50",
+        "usage_time": 5,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE12",
+        "name": "Server 12",
+        "status": "occupied",
+        "customer_name": "Customer 78",
+        "customer_phone": "0401146467",
+        "start_time": "19:27",
+        "usage_time": 2,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE13",
+        "name": "Server 13",
+        "status": "available",
+        "customer_name": "",
+        "customer_phone": "",
+        "start_time": "",
+        "usage_time": 0,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE14",
+        "name": "Server 14",
+        "status": "available",
+        "customer_name": "",
+        "customer_phone": "",
+        "start_time": "",
+        "usage_time": 0,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE15",
+        "name": "Server 15",
+        "status": "occupied",
+        "customer_name": "Customer 50",
+        "customer_phone": "0438244235",
+        "start_time": "14:30",
+        "usage_time": 3,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE16",
+        "name": "Server 16",
+        "status": "occupied",
+        "customer_name": "Customer 77",
+        "customer_phone": "0024931957",
+        "start_time": "14:51",
+        "usage_time": 2,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE17",
+        "name": "Server 17",
+        "status": "available",
+        "customer_name": "",
+        "customer_phone": "",
+        "start_time": "",
+        "usage_time": 0,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE18",
+        "name": "Server 18",
+        "status": "available",
+        "customer_name": "",
+        "customer_phone": "",
+        "start_time": "",
+        "usage_time": 0,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE19",
+        "name": "Server 19",
+        "status": "occupied",
+        "customer_name": "Customer 67",
+        "customer_phone": "0604641797",
+        "start_time": "16:47",
+        "usage_time": 4,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE20",
+        "name": "Server 20",
+        "status": "available",
+        "customer_name": "",
+        "customer_phone": "",
+        "start_time": "",
+        "usage_time": 0,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE21",
+        "name": "Server 21",
+        "status": "available",
+        "customer_name": "",
+        "customer_phone": "",
+        "start_time": "",
+        "usage_time": 0,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE22",
+        "name": "Server 22",
+        "status": "occupied",
+        "customer_name": "Customer 28",
+        "customer_phone": "0967200785",
+        "start_time": "20:56",
+        "usage_time": 5,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE23",
+        "name": "Server 23",
+        "status": "available",
+        "customer_name": "",
+        "customer_phone": "",
+        "start_time": "",
+        "usage_time": 0,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE24",
+        "name": "Server 24",
+        "status": "occupied",
+        "customer_name": "Customer 93",
+        "customer_phone": "0178260101",
+        "start_time": "19:04",
+        "usage_time": 5,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE25",
+        "name": "Server 25",
+        "status": "occupied",
+        "customer_name": "Customer 36",
+        "customer_phone": "0750150120",
+        "start_time": "09:43",
+        "usage_time": 3,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE26",
+        "name": "Server 26",
+        "status": "available",
+        "customer_name": "",
+        "customer_phone": "",
+        "start_time": "",
+        "usage_time": 0,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE27",
+        "name": "Server 27",
+        "status": "available",
+        "customer_name": "",
+        "customer_phone": "",
+        "start_time": "",
+        "usage_time": 0,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE28",
+        "name": "Server 28",
+        "status": "occupied",
+        "customer_name": "Customer 26",
+        "customer_phone": "0680860619",
+        "start_time": "17:28",
+        "usage_time": 1,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE29",
+        "name": "Server 29",
+        "status": "occupied",
+        "customer_name": "Customer 3",
+        "customer_phone": "0907094882",
+        "start_time": "16:16",
+        "usage_time": 5,
+        "price_per_hour": 10000
+    },
+    {
+        "id": "SE30",
+        "name": "Server 30",
+        "status": "occupied",
+        "customer_name": "Customer 16",
+        "customer_phone": "0012056009",
+        "start_time": "17:57",
+        "usage_time": 4,
+        "price_per_hour": 10000
+    }
+]

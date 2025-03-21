@@ -1,0 +1,2294 @@
+[
+    {
+        "id": "IN001",
+        "employee_id": "EM01",
+        "employee_name": "Employee 1",
+        "date": "2025-03-20",
+        "time_in": "19:17",
+        "time_out": "09:17",
+        "total": 374000,
+        "order": {
+            "customer_name": "Customer 1",
+            "customer_phone": "0661116798",
+            "computer_id": "M11",
+            "usage_time": 14,
+            "usage_price": 140000,
+            "items": [
+                {
+                    "item_id": "SE03",
+                    "name": "Server 03",
+                    "price": 140000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN003",
+                    "name": "Khô gà",
+                    "price": 12000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD004",
+                    "name": "Nui xào trứng",
+                    "price": 30000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR001",
+                    "name": "Nước suối",
+                    "price": 10000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR004",
+                    "name": "Olong Tea Plus",
+                    "price": 30000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN002",
+        "employee_id": "EM01",
+        "employee_name": "Employee 1",
+        "date": "2025-03-19",
+        "time_in": "03:42",
+        "time_out": "01:42",
+        "total": 562000,
+        "order": {
+            "customer_name": "Customer 2",
+            "customer_phone": "0442005680",
+            "computer_id": "M16",
+            "usage_time": 22,
+            "usage_price": 220000,
+            "items": [
+                {
+                    "item_id": "SE03",
+                    "name": "Server 03",
+                    "price": 220000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD002",
+                    "name": "Mì xào trứng",
+                    "price": 30000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN003",
+                    "name": "Khô gà",
+                    "price": 12000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR007",
+                    "name": "Matcha Latte",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "SN005",
+                    "name": "Đậu phộng gói",
+                    "price": 10000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN003",
+        "employee_id": "EM03",
+        "employee_name": "Employee 3",
+        "date": "2025-03-17",
+        "time_in": "09:31",
+        "time_out": "10:31",
+        "total": 180000,
+        "order": {
+            "customer_name": "Customer 3",
+            "customer_phone": "0555760725",
+            "computer_id": "M12",
+            "usage_time": 1,
+            "usage_price": 10000,
+            "items": [
+                {
+                    "item_id": "SE02",
+                    "name": "Server 02",
+                    "price": 10000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR004",
+                    "name": "Olong Tea Plus",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD006",
+                    "name": "Nui xào bò trứng",
+                    "price": 45000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "SN005",
+                    "name": "Đậu phộng gói",
+                    "price": 10000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN004",
+        "employee_id": "EM02",
+        "employee_name": "Employee 2",
+        "date": "2025-03-20",
+        "time_in": "19:35",
+        "time_out": "02:35",
+        "total": 360000,
+        "order": {
+            "customer_name": "Customer 4",
+            "customer_phone": "0354817297",
+            "computer_id": "M07",
+            "usage_time": 7,
+            "usage_price": 70000,
+            "items": [
+                {
+                    "item_id": "SE03",
+                    "name": "Server 03",
+                    "price": 70000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD005",
+                    "name": "Nui xào bò",
+                    "price": 40000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD003",
+                    "name": "Mì xào bò trứng",
+                    "price": 45000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR006",
+                    "name": "Trà sữa",
+                    "price": 25000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN005",
+        "employee_id": "EM04",
+        "employee_name": "Employee 4",
+        "date": "2025-03-19",
+        "time_in": "21:28",
+        "time_out": "23:28",
+        "total": 285000,
+        "order": {
+            "customer_name": "Customer 5",
+            "customer_phone": "0193558932",
+            "computer_id": "M06",
+            "usage_time": 2,
+            "usage_price": 20000,
+            "items": [
+                {
+                    "item_id": "SE30",
+                    "name": "Server 30",
+                    "price": 20000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD003",
+                    "name": "Mì xào bò trứng",
+                    "price": 45000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD002",
+                    "name": "Mì xào trứng",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD002",
+                    "name": "Mì xào trứng",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD001",
+                    "name": "Mì xào bò",
+                    "price": 40000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN006",
+        "employee_id": "EM03",
+        "employee_name": "Employee 3",
+        "date": "2025-03-16",
+        "time_in": "08:34",
+        "time_out": "00:34",
+        "total": 489000,
+        "order": {
+            "customer_name": "Customer 6",
+            "customer_phone": "0843003024",
+            "computer_id": "M12",
+            "usage_time": 16,
+            "usage_price": 160000,
+            "items": [
+                {
+                    "item_id": "SE12",
+                    "name": "Server 12",
+                    "price": 160000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR002",
+                    "name": "Sting",
+                    "price": 15000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD005",
+                    "name": "Nui xào bò",
+                    "price": 40000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "SN003",
+                    "name": "Khô gà",
+                    "price": 12000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR006",
+                    "name": "Trà sữa",
+                    "price": 25000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN007",
+        "employee_id": "EM03",
+        "employee_name": "Employee 3",
+        "date": "2025-03-18",
+        "time_in": "09:23",
+        "time_out": "09:23",
+        "total": 630000,
+        "order": {
+            "customer_name": "Customer 7",
+            "customer_phone": "0532920605",
+            "computer_id": "M11",
+            "usage_time": 24,
+            "usage_price": 240000,
+            "items": [
+                {
+                    "item_id": "SE21",
+                    "name": "Server 21",
+                    "price": 240000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD002",
+                    "name": "Mì xào trứng",
+                    "price": 30000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR007",
+                    "name": "Matcha Latte",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR004",
+                    "name": "Olong Tea Plus",
+                    "price": 30000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN008",
+        "employee_id": "EM04",
+        "employee_name": "Employee 4",
+        "date": "2025-03-21",
+        "time_in": "13:05",
+        "time_out": "19:05",
+        "total": 255000,
+        "order": {
+            "customer_name": "Customer 8",
+            "customer_phone": "0461666552",
+            "computer_id": "M06",
+            "usage_time": 6,
+            "usage_price": 60000,
+            "items": [
+                {
+                    "item_id": "SE17",
+                    "name": "Server 17",
+                    "price": 60000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR005",
+                    "name": "Trà tắc",
+                    "price": 15000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR004",
+                    "name": "Olong Tea Plus",
+                    "price": 30000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR005",
+                    "name": "Trà tắc",
+                    "price": 15000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD003",
+                    "name": "Mì xào bò trứng",
+                    "price": 45000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN009",
+        "employee_id": "EM02",
+        "employee_name": "Employee 2",
+        "date": "2025-03-16",
+        "time_in": "14:20",
+        "time_out": "07:20",
+        "total": 411000,
+        "order": {
+            "customer_name": "Customer 9",
+            "customer_phone": "0095810703",
+            "computer_id": "M06",
+            "usage_time": 17,
+            "usage_price": 170000,
+            "items": [
+                {
+                    "item_id": "SE25",
+                    "name": "Server 25",
+                    "price": 170000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN003",
+                    "name": "Khô gà",
+                    "price": 12000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD004",
+                    "name": "Nui xào trứng",
+                    "price": 30000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN004",
+                    "name": "Khô bò",
+                    "price": 17000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN003",
+                    "name": "Khô gà",
+                    "price": 12000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN010",
+        "employee_id": "EM02",
+        "employee_name": "Employee 2",
+        "date": "2025-03-18",
+        "time_in": "01:23",
+        "time_out": "06:23",
+        "total": 200000,
+        "order": {
+            "customer_name": "Customer 10",
+            "customer_phone": "0983373812",
+            "computer_id": "M14",
+            "usage_time": 5,
+            "usage_price": 50000,
+            "items": [
+                {
+                    "item_id": "SE27",
+                    "name": "Server 27",
+                    "price": 50000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD001",
+                    "name": "Mì xào bò",
+                    "price": 40000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR003",
+                    "name": "Pepsi",
+                    "price": 15000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR005",
+                    "name": "Trà tắc",
+                    "price": 15000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN011",
+        "employee_id": "EM05",
+        "employee_name": "Employee 5",
+        "date": "2025-03-19",
+        "time_in": "18:02",
+        "time_out": "12:02",
+        "total": 438000,
+        "order": {
+            "customer_name": "Customer 11",
+            "customer_phone": "0623280807",
+            "computer_id": "M10",
+            "usage_time": 18,
+            "usage_price": 180000,
+            "items": [
+                {
+                    "item_id": "SE28",
+                    "name": "Server 28",
+                    "price": 180000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD005",
+                    "name": "Nui xào bò",
+                    "price": 40000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN002",
+                    "name": "Nui sấy",
+                    "price": 8000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD004",
+                    "name": "Nui xào trứng",
+                    "price": 30000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN012",
+        "employee_id": "EM02",
+        "employee_name": "Employee 2",
+        "date": "2025-03-21",
+        "time_in": "18:08",
+        "time_out": "19:08",
+        "total": 175000,
+        "order": {
+            "customer_name": "Customer 12",
+            "customer_phone": "0315527023",
+            "computer_id": "M01",
+            "usage_time": 1,
+            "usage_price": 10000,
+            "items": [
+                {
+                    "item_id": "SE15",
+                    "name": "Server 15",
+                    "price": 10000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD005",
+                    "name": "Nui xào bò",
+                    "price": 40000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR006",
+                    "name": "Trà sữa",
+                    "price": 25000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR006",
+                    "name": "Trà sữa",
+                    "price": 25000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN013",
+        "employee_id": "EM04",
+        "employee_name": "Employee 4",
+        "date": "2025-03-19",
+        "time_in": "10:45",
+        "time_out": "18:45",
+        "total": 266000,
+        "order": {
+            "customer_name": "Customer 13",
+            "customer_phone": "0955300946",
+            "computer_id": "M04",
+            "usage_time": 8,
+            "usage_price": 80000,
+            "items": [
+                {
+                    "item_id": "SE26",
+                    "name": "Server 26",
+                    "price": 80000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN002",
+                    "name": "Nui sấy",
+                    "price": 8000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "SN005",
+                    "name": "Đậu phộng gói",
+                    "price": 10000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR006",
+                    "name": "Trà sữa",
+                    "price": 25000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR003",
+                    "name": "Pepsi",
+                    "price": 15000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN014",
+        "employee_id": "EM04",
+        "employee_name": "Employee 4",
+        "date": "2025-03-19",
+        "time_in": "06:07",
+        "time_out": "15:07",
+        "total": 310000,
+        "order": {
+            "customer_name": "Customer 14",
+            "customer_phone": "0818070115",
+            "computer_id": "M15",
+            "usage_time": 9,
+            "usage_price": 90000,
+            "items": [
+                {
+                    "item_id": "SE17",
+                    "name": "Server 17",
+                    "price": 90000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR002",
+                    "name": "Sting",
+                    "price": 15000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD001",
+                    "name": "Mì xào bò",
+                    "price": 40000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR004",
+                    "name": "Olong Tea Plus",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR005",
+                    "name": "Trà tắc",
+                    "price": 15000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN015",
+        "employee_id": "EM05",
+        "employee_name": "Employee 5",
+        "date": "2025-03-18",
+        "time_in": "17:47",
+        "time_out": "12:47",
+        "total": 600000,
+        "order": {
+            "customer_name": "Customer 15",
+            "customer_phone": "0845708329",
+            "computer_id": "M10",
+            "usage_time": 19,
+            "usage_price": 190000,
+            "items": [
+                {
+                    "item_id": "SE12",
+                    "name": "Server 12",
+                    "price": 190000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD002",
+                    "name": "Mì xào trứng",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD002",
+                    "name": "Mì xào trứng",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD005",
+                    "name": "Nui xào bò",
+                    "price": 40000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR007",
+                    "name": "Matcha Latte",
+                    "price": 30000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN016",
+        "employee_id": "EM04",
+        "employee_name": "Employee 4",
+        "date": "2025-03-16",
+        "time_in": "01:33",
+        "time_out": "03:33",
+        "total": 100000,
+        "order": {
+            "customer_name": "Customer 16",
+            "customer_phone": "0131031073",
+            "computer_id": "M11",
+            "usage_time": 2,
+            "usage_price": 20000,
+            "items": [
+                {
+                    "item_id": "SE17",
+                    "name": "Server 17",
+                    "price": 20000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN005",
+                    "name": "Đậu phộng gói",
+                    "price": 10000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR002",
+                    "name": "Sting",
+                    "price": 15000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "SN005",
+                    "name": "Đậu phộng gói",
+                    "price": 10000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN017",
+        "employee_id": "EM01",
+        "employee_name": "Employee 1",
+        "date": "2025-03-18",
+        "time_in": "15:00",
+        "time_out": "13:00",
+        "total": 564000,
+        "order": {
+            "customer_name": "Customer 17",
+            "customer_phone": "0974004898",
+            "computer_id": "M04",
+            "usage_time": 22,
+            "usage_price": 220000,
+            "items": [
+                {
+                    "item_id": "SE18",
+                    "name": "Server 18",
+                    "price": 220000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN004",
+                    "name": "Khô bò",
+                    "price": 17000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR001",
+                    "name": "Nước suối",
+                    "price": 10000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR006",
+                    "name": "Trà sữa",
+                    "price": 25000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD007",
+                    "name": "Cơm chiên trứng",
+                    "price": 30000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN018",
+        "employee_id": "EM01",
+        "employee_name": "Employee 1",
+        "date": "2025-03-21",
+        "time_in": "17:34",
+        "time_out": "04:34",
+        "total": 345000,
+        "order": {
+            "customer_name": "Customer 18",
+            "customer_phone": "0310695341",
+            "computer_id": "M10",
+            "usage_time": 11,
+            "usage_price": 110000,
+            "items": [
+                {
+                    "item_id": "SE04",
+                    "name": "Server 04",
+                    "price": 110000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD007",
+                    "name": "Cơm chiên trứng",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR001",
+                    "name": "Nước suối",
+                    "price": 10000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD006",
+                    "name": "Nui xào bò trứng",
+                    "price": 45000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN019",
+        "employee_id": "EM05",
+        "employee_name": "Employee 5",
+        "date": "2025-03-20",
+        "time_in": "22:27",
+        "time_out": "13:27",
+        "total": 434000,
+        "order": {
+            "customer_name": "Customer 19",
+            "customer_phone": "0351125570",
+            "computer_id": "M04",
+            "usage_time": 15,
+            "usage_price": 150000,
+            "items": [
+                {
+                    "item_id": "SE01",
+                    "name": "Server 01",
+                    "price": 150000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN003",
+                    "name": "Khô gà",
+                    "price": 12000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD005",
+                    "name": "Nui xào bò",
+                    "price": 40000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR007",
+                    "name": "Matcha Latte",
+                    "price": 30000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN020",
+        "employee_id": "EM03",
+        "employee_name": "Employee 3",
+        "date": "2025-03-21",
+        "time_in": "02:46",
+        "time_out": "17:46",
+        "total": 485000,
+        "order": {
+            "customer_name": "Customer 20",
+            "customer_phone": "0392766553",
+            "computer_id": "M10",
+            "usage_time": 15,
+            "usage_price": 150000,
+            "items": [
+                {
+                    "item_id": "SE22",
+                    "name": "Server 22",
+                    "price": 150000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR004",
+                    "name": "Olong Tea Plus",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD005",
+                    "name": "Nui xào bò",
+                    "price": 40000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR006",
+                    "name": "Trà sữa",
+                    "price": 25000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR001",
+                    "name": "Nước suối",
+                    "price": 10000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN021",
+        "employee_id": "EM05",
+        "employee_name": "Employee 5",
+        "date": "2025-03-18",
+        "time_in": "03:59",
+        "time_out": "13:59",
+        "total": 332000,
+        "order": {
+            "customer_name": "Customer 21",
+            "customer_phone": "0589706342",
+            "computer_id": "M16",
+            "usage_time": 10,
+            "usage_price": 100000,
+            "items": [
+                {
+                    "item_id": "SE08",
+                    "name": "Server 08",
+                    "price": 100000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN003",
+                    "name": "Khô gà",
+                    "price": 12000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR004",
+                    "name": "Olong Tea Plus",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD004",
+                    "name": "Nui xào trứng",
+                    "price": 30000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN022",
+        "employee_id": "EM04",
+        "employee_name": "Employee 4",
+        "date": "2025-03-19",
+        "time_in": "14:10",
+        "time_out": "16:10",
+        "total": 125000,
+        "order": {
+            "customer_name": "Customer 22",
+            "customer_phone": "0474880312",
+            "computer_id": "M09",
+            "usage_time": 2,
+            "usage_price": 20000,
+            "items": [
+                {
+                    "item_id": "SE29",
+                    "name": "Server 29",
+                    "price": 20000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR006",
+                    "name": "Trà sữa",
+                    "price": 25000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR006",
+                    "name": "Trà sữa",
+                    "price": 25000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR001",
+                    "name": "Nước suối",
+                    "price": 10000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN023",
+        "employee_id": "EM01",
+        "employee_name": "Employee 1",
+        "date": "2025-03-21",
+        "time_in": "03:02",
+        "time_out": "09:02",
+        "total": 250000,
+        "order": {
+            "customer_name": "Customer 23",
+            "customer_phone": "0155550729",
+            "computer_id": "M08",
+            "usage_time": 6,
+            "usage_price": 60000,
+            "items": [
+                {
+                    "item_id": "SE14",
+                    "name": "Server 14",
+                    "price": 60000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN001",
+                    "name": "Snack (random)",
+                    "price": 10000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD004",
+                    "name": "Nui xào trứng",
+                    "price": 30000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD002",
+                    "name": "Mì xào trứng",
+                    "price": 30000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR004",
+                    "name": "Olong Tea Plus",
+                    "price": 30000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN024",
+        "employee_id": "EM05",
+        "employee_name": "Employee 5",
+        "date": "2025-03-19",
+        "time_in": "18:15",
+        "time_out": "06:15",
+        "total": 405000,
+        "order": {
+            "customer_name": "Customer 24",
+            "customer_phone": "0526640324",
+            "computer_id": "M15",
+            "usage_time": 12,
+            "usage_price": 120000,
+            "items": [
+                {
+                    "item_id": "SE02",
+                    "name": "Server 02",
+                    "price": 120000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD008",
+                    "name": "Cơm chiên bò xào",
+                    "price": 40000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR004",
+                    "name": "Olong Tea Plus",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR002",
+                    "name": "Sting",
+                    "price": 15000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN001",
+                    "name": "Snack (random)",
+                    "price": 10000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN025",
+        "employee_id": "EM04",
+        "employee_name": "Employee 4",
+        "date": "2025-03-19",
+        "time_in": "20:56",
+        "time_out": "22:56",
+        "total": 147000,
+        "order": {
+            "customer_name": "Customer 25",
+            "customer_phone": "0942459644",
+            "computer_id": "M05",
+            "usage_time": 2,
+            "usage_price": 20000,
+            "items": [
+                {
+                    "item_id": "SE08",
+                    "name": "Server 08",
+                    "price": 20000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN004",
+                    "name": "Khô bò",
+                    "price": 17000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR005",
+                    "name": "Trà tắc",
+                    "price": 15000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD007",
+                    "name": "Cơm chiên trứng",
+                    "price": 30000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN026",
+        "employee_id": "EM03",
+        "employee_name": "Employee 3",
+        "date": "2025-03-18",
+        "time_in": "05:59",
+        "time_out": "14:59",
+        "total": 313000,
+        "order": {
+            "customer_name": "Customer 26",
+            "customer_phone": "0068734820",
+            "computer_id": "M16",
+            "usage_time": 9,
+            "usage_price": 90000,
+            "items": [
+                {
+                    "item_id": "SE27",
+                    "name": "Server 27",
+                    "price": 90000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD007",
+                    "name": "Cơm chiên trứng",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "SN005",
+                    "name": "Đậu phộng gói",
+                    "price": 10000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "SN002",
+                    "name": "Nui sấy",
+                    "price": 8000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD003",
+                    "name": "Mì xào bò trứng",
+                    "price": 45000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN027",
+        "employee_id": "EM03",
+        "employee_name": "Employee 3",
+        "date": "2025-03-21",
+        "time_in": "12:42",
+        "time_out": "08:42",
+        "total": 485000,
+        "order": {
+            "customer_name": "Customer 27",
+            "customer_phone": "0403766355",
+            "computer_id": "M02",
+            "usage_time": 20,
+            "usage_price": 200000,
+            "items": [
+                {
+                    "item_id": "SE05",
+                    "name": "Server 05",
+                    "price": 200000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD001",
+                    "name": "Mì xào bò",
+                    "price": 40000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR001",
+                    "name": "Nước suối",
+                    "price": 10000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR006",
+                    "name": "Trà sữa",
+                    "price": 25000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN028",
+        "employee_id": "EM05",
+        "employee_name": "Employee 5",
+        "date": "2025-03-17",
+        "time_in": "19:35",
+        "time_out": "18:35",
+        "total": 615000,
+        "order": {
+            "customer_name": "Customer 28",
+            "customer_phone": "0531637742",
+            "computer_id": "M02",
+            "usage_time": 23,
+            "usage_price": 230000,
+            "items": [
+                {
+                    "item_id": "SE22",
+                    "name": "Server 22",
+                    "price": 230000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD003",
+                    "name": "Mì xào bò trứng",
+                    "price": 45000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD005",
+                    "name": "Nui xào bò",
+                    "price": 40000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR007",
+                    "name": "Matcha Latte",
+                    "price": 30000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN029",
+        "employee_id": "EM04",
+        "employee_name": "Employee 4",
+        "date": "2025-03-19",
+        "time_in": "14:43",
+        "time_out": "07:43",
+        "total": 450000,
+        "order": {
+            "customer_name": "Customer 29",
+            "customer_phone": "0848149572",
+            "computer_id": "M14",
+            "usage_time": 17,
+            "usage_price": 170000,
+            "items": [
+                {
+                    "item_id": "SE24",
+                    "name": "Server 24",
+                    "price": 170000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR001",
+                    "name": "Nước suối",
+                    "price": 10000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD007",
+                    "name": "Cơm chiên trứng",
+                    "price": 30000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR005",
+                    "name": "Trà tắc",
+                    "price": 15000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD001",
+                    "name": "Mì xào bò",
+                    "price": 40000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN030",
+        "employee_id": "EM01",
+        "employee_name": "Employee 1",
+        "date": "2025-03-19",
+        "time_in": "11:34",
+        "time_out": "12:34",
+        "total": 150000,
+        "order": {
+            "customer_name": "Customer 30",
+            "customer_phone": "0355477172",
+            "computer_id": "M01",
+            "usage_time": 1,
+            "usage_price": 10000,
+            "items": [
+                {
+                    "item_id": "SE07",
+                    "name": "Server 07",
+                    "price": 10000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD006",
+                    "name": "Nui xào bò trứng",
+                    "price": 45000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD006",
+                    "name": "Nui xào bò trứng",
+                    "price": 45000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD008",
+                    "name": "Cơm chiên bò xào",
+                    "price": 40000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN031",
+        "employee_id": "EM04",
+        "employee_name": "Employee 4",
+        "date": "2025-03-20",
+        "time_in": "05:27",
+        "time_out": "08:27",
+        "total": 174000,
+        "order": {
+            "customer_name": "Customer 31",
+            "customer_phone": "0936906584",
+            "computer_id": "M12",
+            "usage_time": 3,
+            "usage_price": 30000,
+            "items": [
+                {
+                    "item_id": "SE23",
+                    "name": "Server 23",
+                    "price": 30000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN004",
+                    "name": "Khô bò",
+                    "price": 17000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD004",
+                    "name": "Nui xào trứng",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR001",
+                    "name": "Nước suối",
+                    "price": 10000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN032",
+        "employee_id": "EM03",
+        "employee_name": "Employee 3",
+        "date": "2025-03-17",
+        "time_in": "07:35",
+        "time_out": "10:35",
+        "total": 206000,
+        "order": {
+            "customer_name": "Customer 32",
+            "customer_phone": "0854513340",
+            "computer_id": "M08",
+            "usage_time": 3,
+            "usage_price": 30000,
+            "items": [
+                {
+                    "item_id": "SE02",
+                    "name": "Server 02",
+                    "price": 30000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD007",
+                    "name": "Cơm chiên trứng",
+                    "price": 30000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN002",
+                    "name": "Nui sấy",
+                    "price": 8000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR001",
+                    "name": "Nước suối",
+                    "price": 10000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD005",
+                    "name": "Nui xào bò",
+                    "price": 40000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN033",
+        "employee_id": "EM02",
+        "employee_name": "Employee 2",
+        "date": "2025-03-18",
+        "time_in": "00:46",
+        "time_out": "19:46",
+        "total": 565000,
+        "order": {
+            "customer_name": "Customer 33",
+            "customer_phone": "0669514494",
+            "computer_id": "M03",
+            "usage_time": 19,
+            "usage_price": 190000,
+            "items": [
+                {
+                    "item_id": "SE06",
+                    "name": "Server 06",
+                    "price": 190000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD006",
+                    "name": "Nui xào bò trứng",
+                    "price": 45000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR002",
+                    "name": "Sting",
+                    "price": 15000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD008",
+                    "name": "Cơm chiên bò xào",
+                    "price": 40000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN034",
+        "employee_id": "EM02",
+        "employee_name": "Employee 2",
+        "date": "2025-03-20",
+        "time_in": "06:23",
+        "time_out": "04:23",
+        "total": 610000,
+        "order": {
+            "customer_name": "Customer 34",
+            "customer_phone": "0534744950",
+            "computer_id": "M02",
+            "usage_time": 22,
+            "usage_price": 220000,
+            "items": [
+                {
+                    "item_id": "SE13",
+                    "name": "Server 13",
+                    "price": 220000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD007",
+                    "name": "Cơm chiên trứng",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "SN005",
+                    "name": "Đậu phộng gói",
+                    "price": 10000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD005",
+                    "name": "Nui xào bò",
+                    "price": 40000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD004",
+                    "name": "Nui xào trứng",
+                    "price": 30000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN035",
+        "employee_id": "EM03",
+        "employee_name": "Employee 3",
+        "date": "2025-03-20",
+        "time_in": "02:57",
+        "time_out": "00:57",
+        "total": 546000,
+        "order": {
+            "customer_name": "Customer 35",
+            "customer_phone": "0666038454",
+            "computer_id": "M08",
+            "usage_time": 22,
+            "usage_price": 220000,
+            "items": [
+                {
+                    "item_id": "SE07",
+                    "name": "Server 07",
+                    "price": 220000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR002",
+                    "name": "Sting",
+                    "price": 15000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "SN002",
+                    "name": "Nui sấy",
+                    "price": 8000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD004",
+                    "name": "Nui xào trứng",
+                    "price": 30000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN036",
+        "employee_id": "EM02",
+        "employee_name": "Employee 2",
+        "date": "2025-03-17",
+        "time_in": "17:24",
+        "time_out": "03:24",
+        "total": 244000,
+        "order": {
+            "customer_name": "Customer 36",
+            "customer_phone": "0124288786",
+            "computer_id": "M12",
+            "usage_time": 10,
+            "usage_price": 100000,
+            "items": [
+                {
+                    "item_id": "SE29",
+                    "name": "Server 29",
+                    "price": 100000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN003",
+                    "name": "Khô gà",
+                    "price": 12000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "SN005",
+                    "name": "Đậu phộng gói",
+                    "price": 10000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN001",
+                    "name": "Snack (random)",
+                    "price": 10000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN037",
+        "employee_id": "EM01",
+        "employee_name": "Employee 1",
+        "date": "2025-03-21",
+        "time_in": "04:47",
+        "time_out": "21:47",
+        "total": 530000,
+        "order": {
+            "customer_name": "Customer 37",
+            "customer_phone": "0918329420",
+            "computer_id": "M09",
+            "usage_time": 17,
+            "usage_price": 170000,
+            "items": [
+                {
+                    "item_id": "SE23",
+                    "name": "Server 23",
+                    "price": 170000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD007",
+                    "name": "Cơm chiên trứng",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD001",
+                    "name": "Mì xào bò",
+                    "price": 40000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR006",
+                    "name": "Trà sữa",
+                    "price": 25000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD008",
+                    "name": "Cơm chiên bò xào",
+                    "price": 40000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN038",
+        "employee_id": "EM01",
+        "employee_name": "Employee 1",
+        "date": "2025-03-19",
+        "time_in": "04:07",
+        "time_out": "02:07",
+        "total": 545000,
+        "order": {
+            "customer_name": "Customer 38",
+            "customer_phone": "0335494467",
+            "computer_id": "M06",
+            "usage_time": 22,
+            "usage_price": 220000,
+            "items": [
+                {
+                    "item_id": "SE03",
+                    "name": "Server 03",
+                    "price": 220000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD007",
+                    "name": "Cơm chiên trứng",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR006",
+                    "name": "Trà sữa",
+                    "price": 25000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN001",
+                    "name": "Snack (random)",
+                    "price": 10000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN039",
+        "employee_id": "EM03",
+        "employee_name": "Employee 3",
+        "date": "2025-03-19",
+        "time_in": "00:57",
+        "time_out": "14:57",
+        "total": 438000,
+        "order": {
+            "customer_name": "Customer 39",
+            "customer_phone": "0136109466",
+            "computer_id": "M07",
+            "usage_time": 14,
+            "usage_price": 140000,
+            "items": [
+                {
+                    "item_id": "SE22",
+                    "name": "Server 22",
+                    "price": 140000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR004",
+                    "name": "Olong Tea Plus",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD006",
+                    "name": "Nui xào bò trứng",
+                    "price": 45000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "SN002",
+                    "name": "Nui sấy",
+                    "price": 8000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN040",
+        "employee_id": "EM04",
+        "employee_name": "Employee 4",
+        "date": "2025-03-18",
+        "time_in": "08:38",
+        "time_out": "13:38",
+        "total": 259000,
+        "order": {
+            "customer_name": "Customer 40",
+            "customer_phone": "0696264885",
+            "computer_id": "M15",
+            "usage_time": 5,
+            "usage_price": 50000,
+            "items": [
+                {
+                    "item_id": "SE25",
+                    "name": "Server 25",
+                    "price": 50000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR005",
+                    "name": "Trà tắc",
+                    "price": 15000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN004",
+                    "name": "Khô bò",
+                    "price": 17000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD008",
+                    "name": "Cơm chiên bò xào",
+                    "price": 40000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD007",
+                    "name": "Cơm chiên trứng",
+                    "price": 30000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN041",
+        "employee_id": "EM01",
+        "employee_name": "Employee 1",
+        "date": "2025-03-21",
+        "time_in": "18:16",
+        "time_out": "19:16",
+        "total": 157000,
+        "order": {
+            "customer_name": "Customer 41",
+            "customer_phone": "0758672614",
+            "computer_id": "M08",
+            "usage_time": 1,
+            "usage_price": 10000,
+            "items": [
+                {
+                    "item_id": "SE15",
+                    "name": "Server 15",
+                    "price": 10000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD003",
+                    "name": "Mì xào bò trứng",
+                    "price": 45000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN004",
+                    "name": "Khô bò",
+                    "price": 17000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR002",
+                    "name": "Sting",
+                    "price": 15000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR007",
+                    "name": "Matcha Latte",
+                    "price": 30000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN042",
+        "employee_id": "EM01",
+        "employee_name": "Employee 1",
+        "date": "2025-03-21",
+        "time_in": "00:18",
+        "time_out": "12:18",
+        "total": 364000,
+        "order": {
+            "customer_name": "Customer 42",
+            "customer_phone": "0062250476",
+            "computer_id": "M11",
+            "usage_time": 12,
+            "usage_price": 120000,
+            "items": [
+                {
+                    "item_id": "SE07",
+                    "name": "Server 07",
+                    "price": 120000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD003",
+                    "name": "Mì xào bò trứng",
+                    "price": 45000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "SN005",
+                    "name": "Đậu phộng gói",
+                    "price": 10000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN003",
+                    "name": "Khô gà",
+                    "price": 12000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN043",
+        "employee_id": "EM01",
+        "employee_name": "Employee 1",
+        "date": "2025-03-15",
+        "time_in": "08:48",
+        "time_out": "02:48",
+        "total": 580000,
+        "order": {
+            "customer_name": "Customer 43",
+            "customer_phone": "0664638789",
+            "computer_id": "M16",
+            "usage_time": 18,
+            "usage_price": 180000,
+            "items": [
+                {
+                    "item_id": "SE27",
+                    "name": "Server 27",
+                    "price": 180000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR001",
+                    "name": "Nước suối",
+                    "price": 10000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD001",
+                    "name": "Mì xào bò",
+                    "price": 40000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD008",
+                    "name": "Cơm chiên bò xào",
+                    "price": 40000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD008",
+                    "name": "Cơm chiên bò xào",
+                    "price": 40000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN044",
+        "employee_id": "EM05",
+        "employee_name": "Employee 5",
+        "date": "2025-03-15",
+        "time_in": "11:40",
+        "time_out": "11:40",
+        "total": 625000,
+        "order": {
+            "customer_name": "Customer 44",
+            "customer_phone": "0021740812",
+            "computer_id": "M12",
+            "usage_time": 24,
+            "usage_price": 240000,
+            "items": [
+                {
+                    "item_id": "SE24",
+                    "name": "Server 24",
+                    "price": 240000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR003",
+                    "name": "Pepsi",
+                    "price": 15000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD007",
+                    "name": "Cơm chiên trứng",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD001",
+                    "name": "Mì xào bò",
+                    "price": 40000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD004",
+                    "name": "Nui xào trứng",
+                    "price": 30000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN045",
+        "employee_id": "EM03",
+        "employee_name": "Employee 3",
+        "date": "2025-03-17",
+        "time_in": "05:05",
+        "time_out": "10:05",
+        "total": 250000,
+        "order": {
+            "customer_name": "Customer 45",
+            "customer_phone": "0798936562",
+            "computer_id": "M06",
+            "usage_time": 5,
+            "usage_price": 50000,
+            "items": [
+                {
+                    "item_id": "SE08",
+                    "name": "Server 08",
+                    "price": 50000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD006",
+                    "name": "Nui xào bò trứng",
+                    "price": 45000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "SN001",
+                    "name": "Snack (random)",
+                    "price": 10000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD001",
+                    "name": "Mì xào bò",
+                    "price": 40000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN046",
+        "employee_id": "EM02",
+        "employee_name": "Employee 2",
+        "date": "2025-03-16",
+        "time_in": "12:49",
+        "time_out": "10:49",
+        "total": 610000,
+        "order": {
+            "customer_name": "Customer 46",
+            "customer_phone": "0513478028",
+            "computer_id": "M10",
+            "usage_time": 22,
+            "usage_price": 220000,
+            "items": [
+                {
+                    "item_id": "SE23",
+                    "name": "Server 23",
+                    "price": 220000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR002",
+                    "name": "Sting",
+                    "price": 15000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD005",
+                    "name": "Nui xào bò",
+                    "price": 40000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD003",
+                    "name": "Mì xào bò trứng",
+                    "price": 45000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR007",
+                    "name": "Matcha Latte",
+                    "price": 30000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN047",
+        "employee_id": "EM03",
+        "employee_name": "Employee 3",
+        "date": "2025-03-20",
+        "time_in": "20:20",
+        "time_out": "06:20",
+        "total": 275000,
+        "order": {
+            "customer_name": "Customer 47",
+            "customer_phone": "0208026144",
+            "computer_id": "M10",
+            "usage_time": 10,
+            "usage_price": 100000,
+            "items": [
+                {
+                    "item_id": "SE17",
+                    "name": "Server 17",
+                    "price": 100000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN001",
+                    "name": "Snack (random)",
+                    "price": 10000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR003",
+                    "name": "Pepsi",
+                    "price": 15000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR001",
+                    "name": "Nước suối",
+                    "price": 10000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD004",
+                    "name": "Nui xào trứng",
+                    "price": 30000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN048",
+        "employee_id": "EM01",
+        "employee_name": "Employee 1",
+        "date": "2025-03-20",
+        "time_in": "07:44",
+        "time_out": "04:44",
+        "total": 549000,
+        "order": {
+            "customer_name": "Customer 48",
+            "customer_phone": "0984976943",
+            "computer_id": "M11",
+            "usage_time": 21,
+            "usage_price": 210000,
+            "items": [
+                {
+                    "item_id": "SE14",
+                    "name": "Server 14",
+                    "price": 210000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "FD001",
+                    "name": "Mì xào bò",
+                    "price": 40000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "DR006",
+                    "name": "Trà sữa",
+                    "price": 25000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN003",
+                    "name": "Khô gà",
+                    "price": 12000,
+                    "quantity": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN049",
+        "employee_id": "EM01",
+        "employee_name": "Employee 1",
+        "date": "2025-03-19",
+        "time_in": "21:15",
+        "time_out": "22:15",
+        "total": 55000,
+        "order": {
+            "customer_name": "Customer 49",
+            "customer_phone": "0530829402",
+            "computer_id": "M02",
+            "usage_time": 1,
+            "usage_price": 10000,
+            "items": [
+                {
+                    "item_id": "SE23",
+                    "name": "Server 23",
+                    "price": 10000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR001",
+                    "name": "Nước suối",
+                    "price": 10000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "DR002",
+                    "name": "Sting",
+                    "price": 15000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN001",
+                    "name": "Snack (random)",
+                    "price": 10000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN050",
+        "employee_id": "EM05",
+        "employee_name": "Employee 5",
+        "date": "2025-03-20",
+        "time_in": "04:09",
+        "time_out": "06:09",
+        "total": 133000,
+        "order": {
+            "customer_name": "Customer 50",
+            "customer_phone": "0799070553",
+            "computer_id": "M14",
+            "usage_time": 2,
+            "usage_price": 20000,
+            "items": [
+                {
+                    "item_id": "SE03",
+                    "name": "Server 03",
+                    "price": 20000,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "SN002",
+                    "name": "Nui sấy",
+                    "price": 8000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "FD007",
+                    "name": "Cơm chiên trứng",
+                    "price": 30000,
+                    "quantity": 2
+                },
+                {
+                    "item_id": "SN004",
+                    "name": "Khô bò",
+                    "price": 17000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN931",
+        "employee_id": "EMP001",
+        "employee_name": "Unknown Employee",
+        "date": "2025-03-21",
+        "time_in": "12:21",
+        "time_out": "13:21",
+        "total": 25000,
+        "order": {
+            "customer_name": "như",
+            "customer_phone": "0664363734",
+            "computer_id": "SE06",
+            "usage_time": 1,
+            "usage_price": 10000,
+            "items": [
+                {
+                    "item_id": "DR002",
+                    "name": "Sting",
+                    "price": 15000,
+                    "quantity": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "IN932",
+        "employee_id": "EMP001",
+        "employee_name": "Unknown Employee",
+        "date": "2025-03-21",
+        "time_in": "12:55",
+        "time_out": "12:55",
+        "total": 45000,
+        "order": {
+            "customer_name": "như",
+            "customer_phone": "0878874832",
+            "computer_id": "6",
+            "usage_time": 0,
+            "usage_price": 0,
+            "items": [
+                {
+                    "item_id": "FD003",
+                    "name": "Mì xào bò trứng",
+                    "price": 45000,
+                    "quantity": 1
+                }
+            ]
+        }
+    }
+]
