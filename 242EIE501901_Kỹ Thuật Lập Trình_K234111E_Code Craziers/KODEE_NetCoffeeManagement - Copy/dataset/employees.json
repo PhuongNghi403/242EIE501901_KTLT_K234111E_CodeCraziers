@@ -1,0 +1,42 @@
+[
+    {
+        "id": "EM01",
+        "name": "Employee 1",
+        "password": "123",
+        "phone": "0394541366",
+        "address": "Employee Address 1",
+        "position": "Employee"
+    },
+    {
+        "id": "EM02",
+        "name": "Employee 2",
+        "password": "123",
+        "phone": "0986829921",
+        "address": "Employee Address 2",
+        "position": "Employee"
+    },
+    {
+        "id": "EM03",
+        "name": "Employee 3",
+        "password": "123",
+        "phone": "0479362907",
+        "address": "Employee Address 3",
+        "position": "Employee"
+    },
+    {
+        "id": "EM04",
+        "name": "Employee 4",
+        "password": "123",
+        "phone": "0313689949",
+        "address": "Employee Address 4",
+        "position": "Employee"
+    },
+    {
+        "id": "EM05",
+        "name": "Employee 5",
+        "password": "123",
+        "phone": "0087282505",
+        "address": "Employee Address 5",
+        "position": "Employee"
+    }
+]
